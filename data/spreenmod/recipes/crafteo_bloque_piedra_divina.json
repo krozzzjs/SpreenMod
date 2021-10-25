@@ -1,0 +1,42 @@
+{
+  "group": "spreenmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "spreenmod:piedra_divina"
+    },
+    "1": {
+      "item": "spreenmod:piedra_divina"
+    },
+    "2": {
+      "item": "spreenmod:piedra_divina"
+    },
+    "3": {
+      "item": "spreenmod:piedra_divina"
+    },
+    "4": {
+      "item": "spreenmod:piedra_divina"
+    },
+    "5": {
+      "item": "spreenmod:piedra_divina"
+    },
+    "6": {
+      "item": "spreenmod:piedra_divina"
+    },
+    "7": {
+      "item": "spreenmod:piedra_divina"
+    },
+    "8": {
+      "item": "spreenmod:piedra_divina"
+    }
+  },
+  "result": {
+    "item": "spreenmod:piedra_divina_block",
+    "count": 2
+  }
+}

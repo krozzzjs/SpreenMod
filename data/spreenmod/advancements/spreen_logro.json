@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "spreenmod:spreen"
+    },
+    "title": {
+      "translate": "advancements.spreen_logro.title"
+    },
+    "description": {
+      "translate": "advancements.spreen_logro.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "spreen_logro": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1000
+  },
+  "parent": "spreenmod:logro"
+}

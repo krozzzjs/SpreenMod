@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spreenmod:blocks/diamante",
+    "up": "spreenmod:blocks/diamante",
+    "north": "spreenmod:blocks/diamante",
+    "east": "spreenmod:blocks/diamante",
+    "south": "spreenmod:blocks/diamante",
+    "west": "spreenmod:blocks/diamante",
+    "particle": "spreenmod:blocks/diamante"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "group": "spreenmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "spreenmod:piedra_divina"
+    },
+    "1": {
+      "item": "spreenmod:piedra_divina"
+    },
+    "2": {
+      "item": "spreenmod:piedra_divina"
+    },
+    "3": {
+      "item": "spreenmod:piedra_divina"
+    },
+    "5": {
+      "item": "spreenmod:piedra_divina"
+    }
+  },
+  "result": {
+    "item": "spreenmod:armadura_de_piedra_divina_helmet",
+    "count": 1
+  }
+}

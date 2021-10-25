@@ -1,0 +1,31 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "spreenmod:spreen_apple"
+    },
+    "title": {
+      "translate": "advancements.logro.title"
+    },
+    "description": {
+      "translate": "advancements.logro.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "logro": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "spreenmod:spreen_apple"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  }
+}

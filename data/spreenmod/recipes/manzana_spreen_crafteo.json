@@ -1,0 +1,33 @@
+{
+  "group": "spreenmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "34 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:golden_apple"
+    },
+    "2": {
+      "item": "spreenmod:piedra_divina"
+    },
+    "3": {
+      "item": "minecraft:emerald"
+    },
+    "4": {
+      "item": "spreenmod:piedra_divina"
+    },
+    "6": {
+      "item": "minecraft:golden_apple"
+    },
+    "8": {
+      "item": "spreenmod:piedra_divina"
+    }
+  },
+  "result": {
+    "item": "spreenmod:spreen_apple",
+    "count": 1
+  }
+}
